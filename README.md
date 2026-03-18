@@ -203,12 +203,7 @@ Please ensure your code follows Dart style guidelines and includes appropriate c
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Hung Thang**
-- GitHub: [@Hungthang1234](https://github.com/Hungthang1234)
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Flutter Documentation](https://flutter.dev/docs)
 - [Firebase Documentation](https://firebase.google.com/docs)
